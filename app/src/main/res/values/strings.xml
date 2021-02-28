@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Abhay Phougat</string>
+    <string name="yellow_star">Yellow Star String Resource</string>
+    <string name="bio">Highly motivated and skilled enterprise architect with around 16 years of experience ensuring IT roadmaps meet business objectives.
+        \n \n In depth experience establishing best practices and guidelines for selecting, developing and implementing IT system within enterprises.\n
+Familiar with architecture concepts of Information Technology Infrastructure library, Open group architecture frameworks, enterprise architecture patterns.
+\n \n Experienced in enterprise level solutions for ecommerce platform (Hybris) and custom ecommerce solutions.
+\n \n Excellent international exposure in Retail as a result of association with multiple projects of repute.</string>
+    <string name="hint">please put your nickname</string>
+    <string name="done_btn">done</string>
+</resources>
